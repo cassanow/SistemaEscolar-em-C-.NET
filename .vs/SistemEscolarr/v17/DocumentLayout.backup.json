@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\configdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\configdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\cadastroaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\cadastroaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\cadastroprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\cadastroprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\basedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\basedados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|c:\\users\\arthur\\desktop\\exercicios de fixacao\\sistemaescolar\\sistemescolarr\\sistemescolarr\\calcularnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3085E914-C47B-4A99-ABBC-37F419096F68}|SistemEscolarr\\SistemEscolarr.csproj|solutionrelative:sistemescolarr\\calcularnota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\ConfigDbContext.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\ConfigDbContext.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\ConfigDbContext.cs",
+              "RelativeToolTip": "SistemEscolarr\\ConfigDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T17:32:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastroProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\CadastroProfessor.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\CadastroProfessor.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\CadastroProfessor.cs",
+              "RelativeToolTip": "SistemEscolarr\\CadastroProfessor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:42:40.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Professor.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\Professor.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Professor.cs",
+              "RelativeToolTip": "SistemEscolarr\\Professor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:33:21.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Disciplina.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Disciplina.cs",
+              "RelativeToolTip": "SistemEscolarr\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:33:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalcularNota.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\CalcularNota.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\CalcularNota.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\CalcularNota.cs",
+              "RelativeToolTip": "SistemEscolarr\\CalcularNota.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:32:54.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastroAluno.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\CadastroAluno.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\CadastroAluno.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\CadastroAluno.cs",
+              "RelativeToolTip": "SistemEscolarr\\CadastroAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:32:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseDados.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\BaseDados.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\BaseDados.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\BaseDados.cs",
+              "RelativeToolTip": "SistemEscolarr\\BaseDados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:32:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Aluno.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\Aluno.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Aluno.cs",
+              "RelativeToolTip": "SistemEscolarr\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:31:17.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Program.cs",
+              "RelativeDocumentMoniker": "SistemEscolarr\\Program.cs",
+              "ToolTip": "C:\\Users\\arthur\\Desktop\\exercicios de fixacao\\SistemaEscolar\\SistemEscolarr\\SistemEscolarr\\Program.cs",
+              "RelativeToolTip": "SistemEscolarr\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:29:26.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
